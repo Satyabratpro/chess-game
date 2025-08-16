@@ -1,0 +1,2 @@
+run = "echo 'Open index.html manually to view the site'"
+language = "html"
